@@ -49,6 +49,7 @@ Steps for adding your name below
 <tr>
 <td align="center"><a href="https://github.com/tusharv01"><kbd><img src="https://avatars.githubusercontent.com/u/93588934?s=400&u=548285c9291584504f809c000d91e683c459892c&v=4" width="100px;" alt=""/></kbd><br /><sub><b>Manojna Vinjamuri</b></sub></a><br /> :computer:  </td>
 <td align="center"><a href="https://github.com/tusharv01"><kbd><img src="https://avatars.githubusercontent.com/u/96570918?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Ishika</b></sub></a><br /> :computer:  </td>
+<td align="center"><a href="https://github.com/kmalhotra08"><kbd><img src="https://avatars.githubusercontent.com/u/96570918?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Karan Malhotra</b></sub></a><br /> :computer:  </td>
 
     
 </tr>
